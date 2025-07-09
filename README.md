@@ -9,7 +9,7 @@ Este projeto é uma visualização interativa de dados genéticos, utilizando an
 Veja a animação em ação:
 
 <p align="center">
-  <img src="media/genome_analysis_3d_with_legend.gif" alt="Animação 3D de Análise Genômica" width="500"/>
+  <img src="media/genome_analysis_3d_with_legend.gif" alt="Animação 3D de Análise Genômica" width="700"/>
 </p>
 
 ## 📝 Descrição do Projeto
