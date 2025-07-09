@@ -9,7 +9,7 @@ Este projeto é uma visualização interativa de dados genéticos, utilizando an
 Veja a animação em ação:
 
 <p align="center">
-  <img src="img/genome_analysis_3d_with_legend.gif" alt="Animação 3D de Análise Genômica" width="700"/>
+  <img src="img/genome_analysis_3d_with_legend.gif" alt="Animação 3D de Análise Genômica" width="500"/>
 </p>
 
 ## 📝 Descrição do Projeto
@@ -79,11 +79,9 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 Se você tiver alguma dúvida ou sugestão, entre em contato:
 
--   **Nome:** Flávio Henrique Barbosa
--   **LinkedIn:** [Flávio Henrique Barbosa | LinkedIn](https://www.linkedin.com/in/fl%C3%A1vio-henrique-barbosa-38465938)
--   **Email:** flaviohenriquehb777@outlook.com
-
----
+* **Nome:** Flávio Henrique Barbosa
+* **LinkedIn:** [Flávio Henrique Barbosa | LinkedIn](https://www.linkedin.com/in/fl%C3%A1vio-henrique-barbosa-38465938)
+* **Email:** flaviohenriquehb777@outlook.com
 
 
 
