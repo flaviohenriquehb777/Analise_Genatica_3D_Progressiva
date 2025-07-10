@@ -1,5 +1,0 @@
-﻿numpy>=1.20.0
-matplotlib>=3.5.0
-pandas>=2.0.0
-Pillow>=9.0.0
-ipython>=8.0.0
